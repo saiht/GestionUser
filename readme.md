@@ -1,3 +1,19 @@
+#Gestion de comptes utilisateurs
+
++ Objectif
+    - Permettre au nouveaux utilisateurs de s'inscrire puis de se connecter au site
+    
++ Contraintes 
+    - Authentification non automatique de l'utilisateur après inscription
+    - Authentification de l'utilisateur uniquement après confirmation de l'adresse mail
+    - Reset de mot de passe possible uniquement si email confirmé
+
+
+
+
+
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
